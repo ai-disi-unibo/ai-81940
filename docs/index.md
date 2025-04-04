@@ -12,7 +12,7 @@ Questo sito raccoglie tutte le informazioni utili sul corso, le modalità d'esam
 - [Valutazione](valutazione.md)
 - [Template della documentazione](template-documentazione.md)
 - [Repository template per i progetti](https://github.com/ai-disi-unibo/ai-progetto-template)
-- [GitHub Classroom](https://classroom.github.com/) *(link da aggiungere)*
+- [GitHub Classroom](https://classroom.github.com/a/q-TkfSGG)
 
 ---
 
