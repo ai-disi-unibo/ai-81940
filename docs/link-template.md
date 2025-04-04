@@ -1,0 +1,1 @@
+[Vai al template di progetto](https://github.com/ai-disi-unibo/ai-progetto-template)
